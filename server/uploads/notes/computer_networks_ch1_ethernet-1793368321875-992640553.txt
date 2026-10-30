@@ -1,0 +1,18 @@
+COMPUTER NETWORKS - LECTURE NOTES
+Date: September 20, 2026
+Instructor: Prof. Sarah Jenkins
+Topic: Physical Layer, Ethernet Standards, CSMA/CD
+
+1. Introduction to Ethernet (IEEE 802.3)
+Ethernet is the traditional technology for connecting devices in a wired local area network (LAN) or wide area network (WAN).
+It enables devices to communicate with each other via a protocol—a set of rules or common network language.
+
+2. CSMA/CD Protocol (Carrier Sense Multiple Access with Collision Detection)
+- Carrier Sense: Listen before transmitting. If channel is busy, wait.
+- Multiple Access: Multiple stations share the transmission medium.
+- Collision Detection: If two stations transmit simultaneously, collision occurs. Both send jam signals, back off randomly (Binary Exponential Backoff), and retransmit.
+
+3. Gigabit Ethernet Features:
+- 1000 Mbps bandwidth
+- Full duplex standard operation eliminating CSMA/CD collisions in switched topologies
+- Frame bursting and carrier extension for backward compatibility.

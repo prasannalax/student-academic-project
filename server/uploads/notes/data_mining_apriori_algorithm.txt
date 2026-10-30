@@ -1,0 +1,7 @@
+DATA MINING & WAREHOUSING - LECTURE NOTES (CSE 3 EXCLUSIVE)
+Module: Association Rule Mining & Apriori Algorithm
+Instructor: Prof. Sarah Jenkins
+
+1. Association Rule Concepts:
+- Support: Percentage of transactions containing both Itemset A and B
+- Confidence: Conditional probability P(B|A) = Support(A U B) / Support(A)

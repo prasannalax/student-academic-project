@@ -1,0 +1,10 @@
+ARTIFICIAL INTELLIGENCE - LECTURE SUMMARY (CSE 3 STUDENT NOTES)
+Topic: Informed Search Algorithms & A* Search
+Class Date: September 19, 2026
+Notes by: Maria Chen (Roll: 324103210128, Section: CSE 3)
+
+1. Best-First Search & Heuristic Evaluation Function:
+f(n) = g(n) + h(n)
+Where:
+- g(n) = exact path cost from start node to current node n
+- h(n) = estimated cost from current node n to goal state

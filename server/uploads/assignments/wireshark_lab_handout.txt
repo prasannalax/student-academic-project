@@ -1,0 +1,6 @@
+LAB ASSIGNMENT HANDOUT: PACKET ANALYSIS USING WIRESHARK
+Department of Computer Science & Engineering (CSE)
+
+Objective:
+1. Capture HTTP and DNS packets using Wireshark.
+2. Analyze 3-way TCP handshake (SYN, SYN-ACK, ACK).

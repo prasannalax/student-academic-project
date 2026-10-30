@@ -1,0 +1,12 @@
+COMPUTER NETWORKS - LECTURE NOTES (CSE DEPARTMENT)
+Date: September 20, 2026
+Instructor: Prof. Sarah Jenkins
+Topic: Physical Layer, Ethernet Standards, CSMA/CD
+
+1. Introduction to Ethernet (IEEE 802.3)
+Ethernet enables devices to communicate with each other via a common network language.
+
+2. CSMA/CD Protocol (Carrier Sense Multiple Access with Collision Detection)
+- Carrier Sense: Listen before transmitting. If channel is busy, wait.
+- Multiple Access: Multiple stations share the transmission medium.
+- Collision Detection: If two stations transmit simultaneously, collision occurs. Both send jam signals and back off.

@@ -1,0 +1,14 @@
+{
+  "name": "student-academic-companion",
+  "version": "1.0.0",
+  "description": "A centralized full-stack academic platform for class notes, assignments, announcements, and peer review",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "seed": "cd server && npm run seed",
+    "build": "cd client && npm run build"
+  },
+  "keywords": ["mern", "academic-companion", "education", "notes-sharing", "assignments"],
+  "author": "",
+  "license": "ISC"
+}

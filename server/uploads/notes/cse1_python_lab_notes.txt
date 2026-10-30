@@ -1,0 +1,6 @@
+PYTHON PROGRAMMING & DATA STRUCTURES (CSE 1 STUDENT NOTES)
+Topic: Recursion and Binary Search Trees
+Class Date: September 22, 2026
+Notes by: David Kumar (Roll: 324103210001, Section: CSE 1)
+
+1. BST In-Order Traversal yields sorted order.
